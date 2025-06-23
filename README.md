@@ -48,8 +48,8 @@ Caledros Basic Theme adds the following pattern categories:
 
 ## :package: Installation
 
-1. Download the theme ZIP file from the releases section of this Github repository.
-2. In your WordPress admin area, go to Appearance → Themes → Add Theme → Upload Theme
+1. Download the theme ZIP file from the [releases section](https://github.com/darnado/caledros-basic-theme/releases) of this Github repository. The current stable version is 1.0.0. You can also download this theme from the [downloads](https://caledrosforge.com/downloads/) section of my website.
+2. In your WordPress admin area, go to Appearance → Themes → Add Theme → Upload Theme.
 3. Choose the ZIP file you downloaded and click Install Now.
 4. Activate the theme after installation.
 
